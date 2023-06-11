@@ -46,8 +46,13 @@ Our codes are based on [T2T](https://github.com/huangjk97/T2T)
 
 # Citation
 ```
-@articl{
-
+@InProceedings{Wang_2023_CVPR,
+    author    = {Wang, Yu and Qiao, Pengchong and Liu, Chang and Song, Guoli and Zheng, Xiawu and Chen, Jie},
+    title     = {Out-of-Distributed Semantic Pruning for Robust Semi-Supervised Learning},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {23849-23858}
 }
 
 ```
